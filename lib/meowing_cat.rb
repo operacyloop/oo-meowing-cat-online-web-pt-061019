@@ -7,6 +7,7 @@ class Cat
   
   def name 
     name = @name 
+    puts name
   end
   
 end 
