@@ -5,4 +5,8 @@ class Cat
     puts "Meow!"
   end
   
+  def name 
+    name = @name 
+  end
+  
 end 
