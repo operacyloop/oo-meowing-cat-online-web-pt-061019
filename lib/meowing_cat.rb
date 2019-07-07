@@ -5,6 +5,8 @@ class Cat
     puts "Meow!"
   end
   
+   attr_accessor :name
+   
   def name 
     name = @name 
     puts name
