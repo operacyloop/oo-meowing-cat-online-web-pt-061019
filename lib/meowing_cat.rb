@@ -7,6 +7,5 @@ class Cat
   
 end 
 
- maru.name = "Maru"
  
  
